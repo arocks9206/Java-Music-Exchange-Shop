@@ -12,7 +12,7 @@ public class Saxophone extends Instrument implements IPlay {
     }
 
     public String play(){
-        return "I'm the sound a saxophone makes";
+        return "This is the sound a saxophone makes";
     }
 
     public int getNoValves(){

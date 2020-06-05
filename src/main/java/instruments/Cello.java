@@ -12,7 +12,7 @@ public class Cello extends Instrument implements IPlay {
     }
 
     public String play() {
-        return "I'm the sound a cello makes";
+        return "This is the sound a cello makes";
     }
 
     public String getLevel(){
